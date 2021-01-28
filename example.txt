@@ -1,3 +1,7 @@
 This is an awesome workshop!
 
 Git is working fine for me until now!
+
+More text for Git
+
+Even more text
